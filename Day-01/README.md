@@ -15,4 +15,4 @@ A simple Python project that generates a cool band name based on user input.
 2. Open a terminal or command prompt.
 3. Run the script:
    ```sh
-   python band_name_generator.py
+   python project_1.py
