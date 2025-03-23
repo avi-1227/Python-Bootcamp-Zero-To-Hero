@@ -56,11 +56,11 @@ Throughout this challenge, I will learn and work with:
 - If you also want to learn Python, check out the course here.
 
 ## 🌟 Connect with Me
-👨‍💻 GitHub: yourusername
+👨‍💻 GitHub: avi-1227
 
-📧 Email: your.email@example.com
+📧 Email: avinaashprasadd@gmail.com
 
-🚀 LinkedIn: Your Profile
+🚀 LinkedIn: [My Profile](https://github.com/avi-1227)
 
 
 ## 🏆 Let’s Code & Grow Together! 🚀
