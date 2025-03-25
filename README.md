@@ -16,7 +16,8 @@ This repository contains all my projects, exercises, and challenges completed as
 
 ## 🏆 **Projects Built During This Challenge**
 Here are some of the exciting projects I’ve built during this challenge:  
-✅ **Band Name Generator** (Day 1)  
+✅ **Band Name Generator** (Day 1)
+✅ **Tip Calculator** (Day 2)  
  
 
 ---
