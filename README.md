@@ -1,60 +1,88 @@
-# 🚀 100 Days of Code - Python Bootcamp 🐍
+# 🚀 The Complete Python Bootcamp: Zero to Hero 🐍
 
 ## 📌 Overview
-Welcome to my **100 Days of Code - Python** journey!  
+Welcome to my **Python Bootcamp Journey**!  
 
-This repository contains all my projects, exercises, and challenges completed as part of  
-[Dr. Angela Yu's "100 Days of Code: The Complete Python Pro Bootcamp"](https://www.udemy.com/course/100-days-of-code-the-complete-python-pro-bootcamp-for-2023/).  
+This repository contains all the projects, exercises, and challenges completed as part of  
+[Jose Portilla's "The Complete Python Bootcamp From Zero to Hero in Python"](https://www.udemy.com/course/complete-python-bootcamp/) on Udemy.  
 
-📅 **Challenge Duration:** 100 Days  
-📖 **Goal:** To master Python, improve problem-solving skills, and build real-world projects  
-
----
+📅 **Course Duration:** Self-Paced  
+📖 **Goal:** To master Python from basics to advanced topics and build real-world projects  
 
 
----
+## 🏆 **Projects Built During This Bootcamp**
+Here are some of the exciting projects I’ve built during this course:  
 
-## 🏆 **Projects Built During This Challenge**
-Here are some of the exciting projects I’ve built during this challenge:  
-✅ **Band Name Generator** (Day 1)
-✅ **Tip Calculator** (Day 2)  
- 
 
 ---
 
 ## 🛠️ **Technologies & Skills Covered**
-Throughout this challenge, I will learn and work with:  
-🔹 Python Basics & Advanced Concepts  
-🔹 Object-Oriented Programming (OOP)  
-🔹 Flask & FastAPI for Web Development  
-🔹 Data Science & Pandas  
-🔹 Web Scraping with BeautifulSoup & Selenium  
-🔹 GUI Development (Tkinter)  
-🔹 Automation & Scripting  
-🔹 API Development & Integration  
-🔹 Database Management (SQLite, PostgreSQL)  
-🔹 Machine Learning Basics  
+Throughout this bootcamp, I will learn and work with:  
+🔹 Command Line Basics 
+🔹 Installing Python
+🔹 Running Python Code
+🔹 Strings
+🔹 Lists 
+🔹 Dictionaries
+🔹 Tuples
+🔹 Sets
+🔹 Number Data Types
+🔹 Print Formatting
+🔹 Functions
+🔹 Scope
+🔹 args/kwargs
+🔹 Built-in Functions
+🔹 Debugging and Error Handling
+🔹 Modules
+🔹 External Modules
+🔹 Object Oriented Programming
+🔹 Inheritance
+🔹 Polymorphism
+🔹 File I/O
+🔹 Advanced Methods
+🔹 Unit Tests
+🔹 and much more!  
 
 ---
 
 ## 🚀 **How to Use This Repository**
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/100-Days-of-Code-Python.git
+   git clone https://github.com/yourusername/Python-Bootcamp-Zero-To-Hero.git
+
+ 
+
 ---
+
 2. Navigate to any day's folder:
    ```sh
-   cd "Day-01"
+   cd 04-OOP
 ---
 3. Run the Python script:
    ```sh
-   python project_1.py
+   python classes.py
 ---
+4. Follow along with the README for each section.
+
+Follow along with the README for each section.
+
+📌 Progress Tracking
+Section	Topic	Status
+1	Python Basics	✅ Done
+2	Control Flow	✅ Done
+3	Functions & Modules	✅ Done
+4	Object-Oriented Programming	✅ Done
+5	Advanced Python Concepts	✅ Done
+6	Data Science Libraries	🔄 In Progress
+7	Web Scraping	⏳ Upcoming
+8	Flask Web Development	⏳ Upcoming
+9	Databases & SQL	⏳ Upcoming
+10	Final Capstone Project	⏳ Upcoming
 
 ## 📜 Acknowledgments
-- A huge thanks to Angela Yu for her amazing Python course.
+- A huge thanks to Jose Portilla for his amazing Python course.
+If you also want to learn Python, check out the course [here](https://www.udemy.com/course/complete-python-bootcamp/).
 
-- If you also want to learn Python, check out the course here.
 
 ## 🌟 Connect with Me
 👨‍💻 GitHub: avi-1227
