@@ -37,7 +37,7 @@ Throughout this bootcamp, I will learn and work with:
 ## 🚀 **How to Use This Repository**
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/Python-Bootcamp-Zero-To-Hero.git
+   git clone https://github.com/avi-1227/Python-Bootcamp-Zero-To-Hero.git
 ---
 2. Navigate to any day's folder:
    ```sh
