@@ -10,37 +10,26 @@ This repository contains all the projects, exercises, and challenges completed a
 📖 **Goal:** To master Python from basics to advanced topics and build real-world projects  
 
 
+
+---
+
 ## 🏆 **Projects Built During This Bootcamp**
 Here are some of the exciting projects I’ve built during this course:  
-
+✅ **Basic Calculator** (Python Basics)  
+✅ **Tic-Tac-Toe Game** (Functions & Logic)  
+✅ **Web Scraper using BeautifulSoup & Selenium** (Web Scraping)  
 
 ---
 
 ## 🛠️ **Technologies & Skills Covered**
 Throughout this bootcamp, I will learn and work with:  
-🔹 Command Line Basics 
-🔹 Installing Python
-🔹 Running Python Code
-🔹 Strings
-🔹 Lists 
-🔹 Dictionaries
-🔹 Tuples
-🔹 Sets
-🔹 Number Data Types
-🔹 Print Formatting
-🔹 Functions
-🔹 Scope
-🔹 args/kwargs
-🔹 Built-in Functions
-🔹 Debugging and Error Handling
-🔹 Modules
-🔹 External Modules
-🔹 Object Oriented Programming
-🔹 Inheritance
-🔹 Polymorphism
-🔹 File I/O
-🔹 Advanced Methods
-🔹 Unit Tests
+🔹 Python Basics & Advanced Concepts  
+🔹 Object-Oriented Programming (OOP)  
+🔹 Web Scraping (BeautifulSoup, Selenium)  
+🔹 working with PDF Files  
+🔹 sending emails  
+🔹 reading Excel files  
+🔹 working with image files 
 🔹 and much more!  
 
 ---
@@ -49,11 +38,7 @@ Throughout this bootcamp, I will learn and work with:
 1. Clone this repository:
    ```sh
    git clone https://github.com/yourusername/Python-Bootcamp-Zero-To-Hero.git
-
- 
-
 ---
-
 2. Navigate to any day's folder:
    ```sh
    cd 04-OOP
@@ -62,22 +47,6 @@ Throughout this bootcamp, I will learn and work with:
    ```sh
    python classes.py
 ---
-4. Follow along with the README for each section.
-
-Follow along with the README for each section.
-
-📌 Progress Tracking
-Section	Topic	Status
-1	Python Basics	✅ Done
-2	Control Flow	✅ Done
-3	Functions & Modules	✅ Done
-4	Object-Oriented Programming	✅ Done
-5	Advanced Python Concepts	✅ Done
-6	Data Science Libraries	🔄 In Progress
-7	Web Scraping	⏳ Upcoming
-8	Flask Web Development	⏳ Upcoming
-9	Databases & SQL	⏳ Upcoming
-10	Final Capstone Project	⏳ Upcoming
 
 ## 📜 Acknowledgments
 - A huge thanks to Jose Portilla for his amazing Python course.
