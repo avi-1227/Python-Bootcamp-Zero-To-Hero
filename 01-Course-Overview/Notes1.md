@@ -1,4 +1,5 @@
 # Course Curriculum Overview
+  What topics we would learn in this course are mentioned below:-
 
 ## Python Setup
  - Python Installation
